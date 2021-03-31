@@ -1,0 +1,4 @@
+- 👋 Olá, sou @JCsound
+- 👀 Estou interessado em Aprende e compartilha conhecimento.
+- 🌱 Atualmente estou aprendendo a mexer com mqtt e esp01.
+- 📫 Como me alcançar (ainda sem contato)
